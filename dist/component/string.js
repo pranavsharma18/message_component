@@ -1,11 +1,11 @@
 import React from "react";
 
-exports.Class1 = function() {
+export default Class1 = function () {
   return {
-    Message: function(name) {
+    Message: function (name) {
       return name;
     },
-    add: function(a, b) {
+    add: function (a, b) {
       return a + b;
     }
   };
