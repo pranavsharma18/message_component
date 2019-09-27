@@ -7,12 +7,12 @@
     "dist",
     "README.md"
   ],
-  "private": true,
   "dependencies": {
     "babel-preset-react": "^6.24.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "win-node-env": "^0.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,5 +40,16 @@
   },
   "optionalDependencies": {
     "win-node-env": "^0.4.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavsharma18/message_component.git"
+  },
+  "author": "pranavsharma18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavsharma18/message_component/issues"
+  },
+  "homepage": "https://github.com/pranavsharma18/message_component#readme"
 }
