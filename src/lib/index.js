@@ -1,2 +1,2 @@
-import Message from './component/string';
-export {Message}
+import Class1 from "./component/string";
+export { Class1 };

@@ -1,6 +1,9 @@
-import React from 'react';
+import React from "react";
 
-export default function Message(name) {
-
-    return name;
-}
+exports.Class1 = function () {
+  return {
+    Message: function (name) {
+      return name;
+    }
+  };
+};
